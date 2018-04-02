@@ -9,8 +9,8 @@
         'Tündérrózsa leveléből,<br> tündér illatú levéből<br> készült e tündéri oldat<br> e tündéri csodaszer,<br> ... <br>',
         'véle hogyha meglocsollak,<br> Te is tündérré leszel.<br> ... <br>',
         'Jóért jótettként cserébe<br> piros tojást kérek érte.<br> ... <br>',
-        'Szabad-e locsolni? 😄',
-        'Kellemes Húsvét hétfőt Kedvesem! 😄️❤️️️',
+        'Szabad-e locsolni? 😉',
+        'Kellemes Húsvét hétfőt Kedvesem! ❤️️️',
         '<img src="images/bg.jpg" class="img" alt="" />'
     ];
 

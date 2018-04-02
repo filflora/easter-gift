@@ -31,7 +31,7 @@ document.body.appendChild(renderer.view);
 
 
 function setup() {
-    for(let i = 0; i < 50; i++) {
+    for(let i = 0; i < 30; i++) {
         addEgg();
     }
 }
